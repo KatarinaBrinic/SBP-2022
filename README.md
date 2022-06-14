@@ -35,3 +35,6 @@ _Performanse_
 
 Procena performansi izvršena je pomoću metode explain("executionStats") koju nudi MongoDB. Grafici prikazuju izmereno vreme izvršavanja upita nad prvom i drugom verzijom baze.
 
+![Capture](https://user-images.githubusercontent.com/64430685/173566767-ee8948da-d2de-47e3-af45-6cff3a3f5167.PNG)
+
+
