@@ -32,5 +32,5 @@ Upiti
 10. Pronaći prosječan broj playlisti na kojima se nalaze izvođači top3 pjesme.
 
 Performanse
-Procjena performansi izvršena je pomoću metode explain("executionStats") koju nudi MongoDB. Grafici prikazuju izmereno vreme izvršavanja upita nad prvom i drugom verzijom baze.
+Procena performansi izvršena je pomoću metode explain("executionStats") koju nudi MongoDB. Grafici prikazuju izmereno vreme izvršavanja upita nad prvom i drugom verzijom baze.
 
